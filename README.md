@@ -13,6 +13,7 @@ Aetherust, **The Binding of Isaac: Repentance+** için steampunk/dişli temalı 
 2. Klasörde `metadata.xml`, `main.lua`, `content/`, `resources/` ve `resources-dlc3/` bulunduğunu kontrol edin.
 3. REPENTOGON etkin durumdayken oyunu başlatın ve Modlar menüsünden Aetherust'u etkinleştirin.
 4. Mevcut kurulumu güncelliyorsanız geçmiş sürümlerden dosyaları parça parça birleştirmek yerine eski `Aetherust` klasörünü bu eksiksiz klasörle değiştirin.
+5. Özel Music/SFX dostaları vardır; Oyun içi deneyiminiz için SFX ses ayarını en az 3 çubuk, Music ses ayarını ise 1 çubukta tutunuz. Kulalık kullanmanızı tavsiye ederim.
 
 ## Modun özellikleri
 
