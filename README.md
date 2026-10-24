@@ -37,3 +37,6 @@ Müziği geçici olarak kısma sistemi, REPENTOGON'un `MusicManager:PlayJingle` 
 ## Katkıda bulunanlar ve krediler
 
 Mod ve üçüncü taraf proje kredileri için [`credit.txt`](credit.txt) dosyasına bakın.
+
+<img width="768" height="768" alt="Aetherust" src="https://github.com/user-attachments/assets/66464e3b-7cc6-45c4-8b34-4970e8615f20" />
+
