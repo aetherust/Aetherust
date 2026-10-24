@@ -1,0 +1,17 @@
+AETHERUST — CREDITS
+
+Aetherust character concept, art direction, custom character sprites, voice/SFX selection and mod implementation:
+The original Aetherust mod author.
+
+REPENTOGON:
+The REPENTOGON team — script extender and Lua API used by this mod.
+https://repentogon.com/
+https://github.com/TeamREPENTOGON/REPENTOGON
+
+The Binding of Isaac: Repentance+:
+Original game and its original assets are the property of their respective rights holders (Edmund McMillen / Nicalis and other credited contributors). This mod is an unofficial fan-made modification and is not affiliated with or endorsed by them.
+
+Asset note:
+Custom Aetherust assets and audio are included for this mod. Any original game assets or API/project references remain subject to their original licenses and ownership. Please do not repackage or redistribute this mod's custom assets as a standalone asset pack without permission from the original mod author.
+
+İletişim için: Aetherust@gmail.com
